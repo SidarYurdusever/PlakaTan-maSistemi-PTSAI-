@@ -17,7 +17,7 @@ Bu proje, kamera görüntülerinden plaka tanıma yaparak plakaları bir veritab
 
 Bu projeyi çalıştırmak için aşağıdaki yazılımlara ve kütüphanelere ihtiyaç vardır:
 
-- Python 3.x
+- Python 3.10.1
 - OpenCV
 - YOLO (Ultralytics)
 - Tesseract OCR (Kurulum için [Tesseract OCR](https://github.com/tesseract-ocr/tesseract))
